@@ -1,5 +1,7 @@
 # Machine Learning Notebooks
-This repository contains 4 notebooks written as a part of my internship.
+I interned at DataFlair for a period of nearly 40 days. I did a total of 10 projects in Computer Vision, NLP and in Machine Learning.
+
+This repository contains the notebooks along with the links to the blogs explaining each of the projects I did. 
 
 ### [Brain Tumor Detection](https://github.com/Jahnavi-Majji/ML-Notebooks/blob/main/brain_tumor_detection.ipynb)
 * Dataset can be downloaded from [here](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)

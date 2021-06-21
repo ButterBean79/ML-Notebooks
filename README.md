@@ -1,7 +1,9 @@
 # Machine Learning Notebooks
 I interned at DataFlair for a period of nearly 40 days. I did a total of 10 projects in Computer Vision, NLP and in Machine Learning.
 
-This repository contains the notebooks along with the links to the blogs explaining each of the projects I did. All of the projects were done using TensorFlow and Keras API.
+This repository contains 8 of the 10 the notebooks along with the links to the blogs explaining each of the projects I did. All of the projects were done using TensorFlow and Keras API.
+
+The other two notebooks are [Image captioning](https://github.com/Jahnavi-Majji/Image-Caption-Generator) and [Handwritten Text Generation](https://github.com/Jahnavi-Majji/Handwritten-Characters-Generation-using-GANs/).
 
 ### [Brain Tumor Detection](https://github.com/Jahnavi-Majji/ML-Notebooks/blob/main/brain_tumor_detection.ipynb)
 * Dataset can be downloaded from [here](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)

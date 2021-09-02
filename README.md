@@ -1,5 +1,5 @@
 # Machine Learning Notebooks
-I interned at )[DataFlair](https://data-flair.training/) for a period of nearly 60 days. I did a total of 10 projects in Computer Vision, NLP and in Machine Learning.
+I interned at [DataFlair](https://data-flair.training/) for a period of nearly 60 days. I did a total of 10 projects in Computer Vision, NLP and in Machine Learning.
 
 This repository contains all of the notebooks along with the links to the blogs explaining each of the projects I did. All of the projects were done using TensorFlow and Keras API. Some of them were not published due to my period as an intern was terminated. So, the links will head to a google document explaining my project.
 

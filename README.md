@@ -1,7 +1,7 @@
 # Machine Learning Notebooks
-I interned at DataFlair for a period of nearly 40 days. I did a total of 10 projects in Computer Vision, NLP and in Machine Learning.
+I interned at )[DataFlair](https://data-flair.training/) for a period of nearly 60 days. I did a total of 10 projects in Computer Vision, NLP and in Machine Learning.
 
-This repository contains 8 of the 10 the notebooks along with the links to the blogs explaining each of the projects I did. All of the projects were done using TensorFlow and Keras API.
+This repository contains all of the notebooks along with the links to the blogs explaining each of the projects I did. All of the projects were done using TensorFlow and Keras API. Some of them were not published due to my period as an intern was terminated. So, the links will head to a google document explaining my project.
 
 The other two notebooks are [Image captioning](https://github.com/Jahnavi-Majji/Image-Caption-Generator) and [Handwritten Text Generation](https://github.com/Jahnavi-Majji/Handwritten-Characters-Generation-using-GANs/).
 
@@ -69,3 +69,18 @@ The other two notebooks are [Image captioning](https://github.com/Jahnavi-Majji/
 * Prepared my own dataset for this task. 
 * Utilized OpenCV and face_recognition library to detect and recognize faces in the picture.
 * [Link to the article](https://data-flair.training/blogs/python-face-recognition)
+
+### [Pedestrian Detection](https://github.com/Jahnavi-Majji/ML-Notebooks/blob/main/Pedestrain%20Detection.py)
+* Prepared my own dataset for this task. 
+* Utilized OpenCV and face_recognition library to detect and recognize faces in the picture.
+* Applied Histogram of Oriented Gradients to the images whose output is then fed into Support Vector Machine to detect pedestrains.
+* The script contains the code to detect the pedestrians in both images and real-time video.
+* [Link to the article]()
+
+### [Handwritten Text Generation using GANs](https://github.com/ButterBean79/Handwritten-Characters-Generation-using-GANs)
+* Head over to the repo.
+* [Link to the article](https://docs.google.com/document/d/1y2fB_XKXmNJbc2aTOipTgmPPrkA2bcEsrq7_kzg0NfI/edit?usp=sharing)
+
+### [Image Caotioning](https://github.com/ButterBean79/Image-Caption-Generator)
+* Head over to the repo.
+* [Link to the article](https://docs.google.com/document/d/1R6sD3xU9-g9DijnASsIOhd-XcYd-g7QbWDBicO9_qgQ/edit?usp=sharing)

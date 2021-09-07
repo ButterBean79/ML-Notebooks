@@ -3,15 +3,15 @@ I interned at [DataFlair](https://data-flair.training/) for a period of nearly 6
 
 This repository contains all of the notebooks along with the links to the blogs explaining each of the projects I did. All of the projects were done using TensorFlow and Keras API. Some of them were not published due to my period as an intern was terminated. So, the links will head to a google document explaining my project.
 
-The other two notebooks are [Image captioning](https://github.com/Jahnavi-Majji/Image-Caption-Generator) and [Handwritten Text Generation](https://github.com/Jahnavi-Majji/Handwritten-Characters-Generation-using-GANs/).
+The other two notebooks are [Image captioning](https://github.com/jahn-chan/Image-Caption-Generator) and [Handwritten Text Generation](https://github.com/jahn-chan/Handwritten-Characters-Generation-using-GANs/).
 
-### [Brain Tumor Detection](https://github.com/Jahnavi-Majji/ML-Notebooks/blob/main/brain_tumor_detection.ipynb)
+### [Brain Tumor Detection](https://github.com/jahn-chan/ML-Notebooks/blob/main/brain_tumor_detection.ipynb)
 * Dataset can be downloaded from [here](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
 * Utilized Transfer Learning to build the classifier
 * Achieved **96.5%** accuracy on the test set
 * [Link to the article](https://data-flair.training/blogs/brain-tumor-classification-machine-learning/)
 
-### [Credit Card Fraud Detection](https://github.com/Jahnavi-Majji/ML-Notebooks/blob/main/credit_card_fraud.ipynb)
+### [Credit Card Fraud Detection](https://github.com/jahn-chan/ML-Notebooks/blob/main/credit_card_fraud.ipynb)
 * Dataset can be downloaded from [here](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 * Data suffers from a serious problem of **class-imbalance**. Only **0.17%** of the transactions were fraud.
 * If we don't address the above problem, the model will easily get high accuracy and will not perform well in the real world.
@@ -22,7 +22,7 @@ The other two notebooks are [Image captioning](https://github.com/Jahnavi-Majji/
 * [Link to the article](https://data-flair.training/blogs/credit-card-fraud-detection-python-machine-learning/)
 
 
-### [Movie Recommendation System](https://github.com/Jahnavi-Majji/ML-Notebooks/blob/main/Movie%20Recommendation.ipynb)
+### [Movie Recommendation System](https://github.com/jahn-chan/ML-Notebooks/blob/main/Movie%20Recommendation.ipynb)
 * Dataset can be downloaded from [here](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 * Built a *basic* recommendation system using the IMDb weighted average score. This is called **Demographic Filtering**
 * Demographic Filtering only gives the top results of all time. The results are not personalized. 
@@ -34,21 +34,21 @@ The other two notebooks are [Image captioning](https://github.com/Jahnavi-Majji/
 * [Link to the article](https://techvidvan.com/tutorials/movie-recommendation-system-python-machine-learning/)
 
 
-### [Fake News Detection](https://github.com/Jahnavi-Majji/ML-Notebooks/blob/main/Fake%20News%20Detection.ipynb)
+### [Fake News Detection](https://github.com/jahn-chan/ML-Notebooks/blob/main/Fake%20News%20Detection.ipynb)
 * Dataset can be downloaded from [here](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
 * The text is preprocessed by removing all the letters except the alphabets and further applying Lemmatization.
 * Applied MultiNomial Naive Bayes algorithm to train the model on the corpus.
 * Achieved more than **95%** accuracy on both the training and test sets.
 * [Link to the article](https://projectgurukul.org/fake-news-detection-project-python-machine-learning/)
 
-### [Emoji Prediction from the Text](https://github.com/Jahnavi-Majji/ML-Notebooks/blob/main/Emoji%20Prediction.py)
+### [Emoji Prediction from the Text](https://github.com/jahn-chan/ML-Notebooks/blob/main/Emoji%20Prediction.py)
 * This is really a cool project I did over the course of my internship.
 * The text is preprocessed and then the word embedding matrix is computed using the pre-trained glove vector 6B 50D.
 * Used LSTMs with Dropout mechanism to improve the accuracy. The architecture of the model consisted of 2 LSTM layers followed by a Dense layer.
 * Achieved only **62%** accuracy on the test sets. There is a room for improvement.
 * [Link to the article](https://data-flair.training/blogs/emoji-prediction-deep-learning/)
 
-### [Sentiment Analysis](https://github.com/Jahnavi-Majji/ML-Notebooks/blob/main/Sentiment%20Analysis.py)
+### [Sentiment Analysis](https://github.com/Jahnavi-Majji/jahn-chan/blob/main/Sentiment%20Analysis.py)
 * I've always thought this project would be so easy as this is considered as the "Hello World" in the NLP projects.
 * But, I learned a lot while doing this project and this introduced me to so many techniques.
 * Dataset can be downloaded from [here](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
@@ -58,29 +58,29 @@ The other two notebooks are [Image captioning](https://github.com/Jahnavi-Majji/
 * Obtained an accuracy of **94%** on the validation set.
 * [Link to the article](https://techvidvan.com/tutorials/python-sentiment-analysis/)
 
-### [Pedestrian Detection](https://github.com/Jahnavi-Majji/ML-Notebooks/blob/main/Pedestrain%20Detection.py)
+### [Pedestrian Detection](https://github.com/jahn-chan/ML-Notebooks/blob/main/Pedestrain%20Detection.py)
 * Prepared my own dataset for this task. 
 * Utilized OpenCV and face_recognition library to detect and recognize faces in the picture.
 * Applied Histogram of Oriented Gradients to the images whose output is then fed into Support Vector Machine to detect pedestrains.
 * The script contains the code to detect the pedestrians in both images and real-time video.
 * [Link to the article]()
 
-### [Human Face Recognition](https://github.com/Jahnavi-Majji/ML-Notebooks/blob/main/Human%20Face%20Recognition.py)
+### [Human Face Recognition](https://github.com/jahn-chan/ML-Notebooks/blob/main/Human%20Face%20Recognition.py)
 * Prepared my own dataset for this task. 
 * Utilized OpenCV and face_recognition library to detect and recognize faces in the picture.
 * [Link to the article](https://data-flair.training/blogs/python-face-recognition)
 
-### [Pedestrian Detection](https://github.com/Jahnavi-Majji/ML-Notebooks/blob/main/Pedestrain%20Detection.py)
+### [Pedestrian Detection](https://github.com/jahn-chan/ML-Notebooks/blob/main/Pedestrain%20Detection.py)
 * Prepared my own dataset for this task. 
 * Utilized OpenCV and face_recognition library to detect and recognize faces in the picture.
 * Applied Histogram of Oriented Gradients to the images whose output is then fed into Support Vector Machine to detect pedestrains.
 * The script contains the code to detect the pedestrians in both images and real-time video.
 * [Link to the article]()
 
-### [Handwritten Text Generation using GANs](https://github.com/ButterBean79/Handwritten-Characters-Generation-using-GANs)
+### [Handwritten Text Generation using GANs](https://github.com/jahn-chan/Handwritten-Characters-Generation-using-GANs)
 * Head over to the repo.
 * [Link to the article](https://docs.google.com/document/d/1y2fB_XKXmNJbc2aTOipTgmPPrkA2bcEsrq7_kzg0NfI/edit?usp=sharing)
 
-### [Image Caotioning](https://github.com/ButterBean79/Image-Caption-Generator)
+### [Image Caotioning](https://github.com/jahn-chan/Image-Caption-Generator)
 * Head over to the repo.
 * [Link to the article](https://docs.google.com/document/d/1R6sD3xU9-g9DijnASsIOhd-XcYd-g7QbWDBicO9_qgQ/edit?usp=sharing)
